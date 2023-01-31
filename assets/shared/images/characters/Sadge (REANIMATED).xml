@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sadge (REANIMATED).png">
+<SubTexture name="Suicide (giving up) Down0000" x="617" y="5050" width="590" height="669" frameX="-43" frameY="-67" frameWidth="653" frameHeight="740" />
+<SubTexture name="Suicide (giving up) Down0001" x="1928" y="5050" width="647" height="654" frameX="0" frameY="-81" frameWidth="653" frameHeight="740" />
+<SubTexture name="Suicide (giving up) Down0002" x="1928" y="5050" width="647" height="654" frameX="0" frameY="-80" frameWidth="653" frameHeight="740" />
+<SubTexture name="Suicide (giving up) Down0003" x="6673" y="642" width="642" height="641" frameX="0" frameY="-94" frameWidth="653" frameHeight="740" />
+<SubTexture name="Suicide (giving up) Down0004" x="5075" y="4235" width="589" height="702" frameX="-36" frameY="-33" frameWidth="653" frameHeight="740" />
+<SubTexture name="Suicide (giving up) Down0005" x="2333" y="1720" width="523" height="735" frameX="-96" frameY="0" frameWidth="653" frameHeight="740" />
+<SubTexture name="Suicide (giving up) Down (hit)0000" x="1207" y="5050" width="721" height="669" frameX="-43" frameY="-67" frameWidth="1596" frameHeight="740" />
+<SubTexture name="Suicide (giving up) Down (hit)0001" x="2575" y="5050" width="923" height="654" frameX="0" frameY="-81" frameWidth="1596" frameHeight="740" />
+<SubTexture name="Suicide (giving up) Down (hit)0002" x="3498" y="5050" width="1256" height="654" frameX="0" frameY="-81" frameWidth="1596" frameHeight="740" />
+<SubTexture name="Suicide (giving up) Down (hit)0003" x="5935" y="0" width="1591" height="642" frameX="0" frameY="-93" frameWidth="1596" frameHeight="740" />
+<SubTexture name="Suicide (giving up) Down (hit)0004" x="5935" y="642" width="738" height="642" frameX="0" frameY="-93" frameWidth="1596" frameHeight="740" />
+<SubTexture name="Suicide (giving up) Down (hit)0005" x="4754" y="5050" width="668" height="644" frameX="-10" frameY="-91" frameWidth="1596" frameHeight="740" />
+<SubTexture name="Suicide (giving up) Down (hit)0006" x="4754" y="5050" width="668" height="644" frameX="-10" frameY="-91" frameWidth="1596" frameHeight="740" />
+<SubTexture name="Suicide (giving up) Down (hit)0007" x="0" y="5050" width="617" height="702" frameX="-36" frameY="-33" frameWidth="1596" frameHeight="740" />
+<SubTexture name="Suicide (giving up) Down (hit)0008" x="3941" y="4235" width="523" height="735" frameX="-96" frameY="0" frameWidth="1596" frameHeight="740" />
+<SubTexture name="Suicide (giving up) Idle0000" x="4464" y="4235" width="611" height="729" frameX="0" frameY="-34" frameWidth="632" frameHeight="775" />
+<SubTexture name="Suicide (giving up) Idle0001" x="4226" y="3414" width="620" height="749" frameX="-6" frameY="-16" frameWidth="632" frameHeight="775" />
+<SubTexture name="Suicide (giving up) Idle0002" x="4226" y="3414" width="620" height="749" frameX="-5" frameY="-16" frameWidth="632" frameHeight="775" />
+<SubTexture name="Suicide (giving up) Idle0003" x="3547" y="2467" width="549" height="755" frameX="-25" frameY="0" frameWidth="632" frameHeight="775" />
+<SubTexture name="Suicide (giving up) Idle0004" x="3547" y="2467" width="549" height="755" frameX="-25" frameY="0" frameWidth="632" frameHeight="775" />
+<SubTexture name="Suicide (giving up) Left0000" x="5044" y="815" width="718" height="814" frameX="-35" frameY="-7" frameWidth="774" frameHeight="827" />
+<SubTexture name="Suicide (giving up) Left0001" x="5044" y="2443" width="667" height="813" frameX="-15" frameY="-8" frameWidth="774" frameHeight="827" />
+<SubTexture name="Suicide (giving up) Left0002" x="5044" y="2443" width="667" height="813" frameX="-15" frameY="-8" frameWidth="774" frameHeight="827" />
+<SubTexture name="Suicide (giving up) Left0003" x="4212" y="2473" width="709" height="821" frameX="-16" frameY="0" frameWidth="774" frameHeight="827" />
+<SubTexture name="Suicide (giving up) Left0004" x="5044" y="3256" width="615" height="802" frameX="-127" frameY="-19" frameWidth="774" frameHeight="827" />
+<SubTexture name="Suicide (giving up) Left (hit)0000" x="5044" y="1629" width="733" height="814" frameX="-35" frameY="-7" frameWidth="1581" frameHeight="827" />
+<SubTexture name="Suicide (giving up) Left (hit)0001" x="1224" y="4235" width="1156" height="813" frameX="-15" frameY="-8" frameWidth="1581" frameHeight="827" />
+<SubTexture name="Suicide (giving up) Left (hit)0002" x="2380" y="4235" width="1561" height="813" frameX="-15" frameY="-8" frameWidth="1581" frameHeight="827" />
+<SubTexture name="Suicide (giving up) Left (hit)0003" x="3547" y="826" width="641" height="821" frameX="-16" frameY="0" frameWidth="1581" frameHeight="827" />
+<SubTexture name="Suicide (giving up) Left (hit)0004" x="3547" y="826" width="641" height="821" frameX="-15" frameY="0" frameWidth="1581" frameHeight="827" />
+<SubTexture name="Suicide (giving up) Left (hit)0005" x="3547" y="1647" width="655" height="820" frameX="0" frameY="-1" frameWidth="1581" frameHeight="827" />
+<SubTexture name="Suicide (giving up) Left (hit)0006" x="3547" y="1647" width="655" height="820" frameX="0" frameY="-1" frameWidth="1581" frameHeight="827" />
+<SubTexture name="Suicide (giving up) Rigth0000" x="2295" y="2577" width="910" height="826" frameX="-5" frameY="-5" frameWidth="932" frameHeight="842" />
+<SubTexture name="Suicide (giving up) Rigth0001" x="3323" y="3414" width="903" height="815" frameX="-11" frameY="-16" frameWidth="932" frameHeight="842" />
+<SubTexture name="Suicide (giving up) Rigth0002" x="3323" y="3414" width="903" height="815" frameX="-11" frameY="-16" frameWidth="932" frameHeight="842" />
+<SubTexture name="Suicide (giving up) Rigth0003" x="0" y="3414" width="921" height="821" frameX="-4" frameY="-10" frameWidth="932" frameHeight="842" />
+<SubTexture name="Suicide (giving up) Rigth0004" x="715" y="2577" width="821" height="832" frameX="-39" frameY="0" frameWidth="932" frameHeight="842" />
+<SubTexture name="Suicide (giving up) Rigth0005" x="0" y="2577" width="715" height="837" frameX="-39" frameY="0" frameWidth="932" frameHeight="842" />
+<SubTexture name="Suicide (giving up) Rigth (hit)0000" x="3547" y="0" width="665" height="826" frameX="-5" frameY="-5" frameWidth="1575" frameHeight="842" />
+<SubTexture name="Suicide (giving up) Rigth (hit)0001" x="5044" y="0" width="891" height="815" frameX="-11" frameY="-16" frameWidth="1575" frameHeight="842" />
+<SubTexture name="Suicide (giving up) Rigth (hit)0002" x="0" y="4235" width="1224" height="815" frameX="-11" frameY="-16" frameWidth="1575" frameHeight="842" />
+<SubTexture name="Suicide (giving up) Rigth (hit)0003" x="921" y="3414" width="1566" height="821" frameX="-4" frameY="-10" frameWidth="1575" frameHeight="842" />
+<SubTexture name="Suicide (giving up) Rigth (hit)0004" x="2487" y="3414" width="836" height="821" frameX="-4" frameY="-10" frameWidth="1575" frameHeight="842" />
+<SubTexture name="Suicide (giving up) Rigth (hit)0005" x="4212" y="0" width="832" height="825" frameX="0" frameY="-6" frameWidth="1575" frameHeight="842" />
+<SubTexture name="Suicide (giving up) Rigth (hit)0006" x="4212" y="0" width="832" height="825" frameX="0" frameY="-6" frameWidth="1575" frameHeight="842" />
+<SubTexture name="Suicide (giving up) Rigth (hit)0007" x="1536" y="2577" width="759" height="832" frameX="-39" frameY="0" frameWidth="1575" frameHeight="842" />
+<SubTexture name="Suicide (giving up) Rigth (hit)0008" x="2861" y="1700" width="543" height="837" frameX="-39" frameY="0" frameWidth="1575" frameHeight="842" />
+<SubTexture name="Suicide (giving up) Up0000" x="0" y="862" width="857" height="858" frameX="-10" frameY="-4" frameWidth="874" frameHeight="868" />
+<SubTexture name="Suicide (giving up) Up0001" x="0" y="0" width="859" height="862" frameX="0" frameY="-1" frameWidth="874" frameHeight="868" />
+<SubTexture name="Suicide (giving up) Up0002" x="0" y="0" width="859" height="862" frameX="0" frameY="0" frameWidth="874" frameHeight="868" />
+<SubTexture name="Suicide (giving up) Up0003" x="1560" y="862" width="848" height="857" frameX="-3" frameY="-6" frameWidth="874" frameHeight="868" />
+<SubTexture name="Suicide (giving up) Up0004" x="4212" y="825" width="731" height="824" frameX="-3" frameY="-38" frameWidth="874" frameHeight="868" />
+<SubTexture name="Suicide (giving up) Up0005" x="2861" y="857" width="634" height="843" frameX="-40" frameY="-20" frameWidth="874" frameHeight="868" />
+<SubTexture name="Suicide (giving up) Up (hit)0000" x="857" y="862" width="703" height="858" frameX="-10" frameY="-4" frameWidth="1613" frameHeight="868" />
+<SubTexture name="Suicide (giving up) Up (hit)0001" x="859" y="0" width="800" height="862" frameX="0" frameY="-1" frameWidth="1613" frameHeight="868" />
+<SubTexture name="Suicide (giving up) Up (hit)0002" x="1659" y="0" width="1202" height="862" frameX="0" frameY="-1" frameWidth="1613" frameHeight="868" />
+<SubTexture name="Suicide (giving up) Up (hit)0003" x="0" y="1720" width="1605" height="857" frameX="-3" frameY="-6" frameWidth="1613" frameHeight="868" />
+<SubTexture name="Suicide (giving up) Up (hit)0004" x="1605" y="1720" width="728" height="857" frameX="-3" frameY="-6" frameWidth="1613" frameHeight="868" />
+<SubTexture name="Suicide (giving up) Up (hit)0005" x="2861" y="0" width="686" height="857" frameX="-1" frameY="-6" frameWidth="1613" frameHeight="868" />
+<SubTexture name="Suicide (giving up) Up (hit)0006" x="2861" y="0" width="686" height="857" frameX="-1" frameY="-5" frameWidth="1613" frameHeight="868" />
+<SubTexture name="Suicide (giving up) Up (hit)0007" x="4212" y="1649" width="664" height="824" frameX="-3" frameY="-38" frameWidth="1613" frameHeight="868" />
+</TextureAtlas>
